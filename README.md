@@ -7,7 +7,7 @@
 ![Logo](https://cdn.discordapp.com/attachments/934992583162212412/1039915562597355631/61b9153eb634b409537f05d3_TypeScript_logo.png)
 
 
-## Install TypeScript
+## Install TypeScript 📥
 
 คำสั่งติดตั้งจะมีดังนี้
 
@@ -15,7 +15,7 @@
   npm install -g typescript
 ```
     
-## วิธี Run TypeScript
+## Run TypeScript 🏃‍♂️
 
 จะรันได้โดยคำสั่งนี้
 
@@ -23,3 +23,14 @@
   ts-node (ชื่อไฟล์.ts)
 ```
 
+
+## Compile TypeScript 💻
+
+การ compile ของ TypeScript จะเป็นการ เอา source code ของ TypeScript ไปแปลงเป็น JavaScript
+
+
+คำสั่งในการ compile
+
+```bash
+  tsc (ชื่อไฟล์.ts)
+```
